@@ -1,0 +1,11 @@
+numpy==2.0.2
+pandas==2.2.2
+matplotlib
+networkx==3.6.1
+scipy
+scikit-learn==1.6.1
+statsmodels==0.14.6
+torch==2.11.0
+torch-geometric==2.8.0
+jupyter
+ipykernel

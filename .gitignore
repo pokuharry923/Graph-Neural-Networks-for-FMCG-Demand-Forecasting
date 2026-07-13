@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data: never commit raw datasets
+data/*
+!data/README.md
+
+# Model artefacts
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+*.key
