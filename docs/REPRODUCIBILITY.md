@@ -2,7 +2,7 @@
 
 ## Experimental environment
 
-- Python: 3.12.15
+- Python: 3.13.15
 - NumPy 2.1.3
 - Pandas 2.2.3
 - SciPy 1.16.3
